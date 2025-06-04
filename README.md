@@ -44,7 +44,7 @@ Because nobody gave it to us.
 Because we’re taking it.  
 Because we’re remembering what they want us to forget.
 
-This repo holds the bones, logic, and experiments of that mission.  
+These repos hold the bones, logic, and experiments of that mission.  
 It’s not polished. It’s real. It’s growing.
 
 If you're looking for dashboards, bounce.  
